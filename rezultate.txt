@@ -1,0 +1,100 @@
+game_id,total_incercari,cuvant_gasit,status,secventa_incercari
+1,7,ICONOGRAFĂ,OK,o i c n g f ă
+2,7,FAGOCITUL,OK,g f o i t u l
+3,5,APICOLILOR,OK,i o l a r
+4,5,HIPOPLAZII,OK,i p l a z
+5,4,PROHODI,OK,p r d i
+6,5,CIOPLEA,OK,c i o e a
+7,8,COVÂRȘITELOR,OK,o r c â ș t e l
+8,6,PÂRGUIRILE,OK,r i â g l e
+9,6,BURGHIERILE,OK,i b u g h l
+10,7,SAMAVOLNICII,OK,a s v o l n c
+11,4,CĂȘĂIEȘTE,OK,ș e c i
+12,3,SISALUL,OK,l i u
+13,5,CINERARIILE,OK,i e c n l
+14,8,DEZAGLOMERĂM,OK,e m d z g l o ă
+15,4,TETRODĂ,OK,t e o d
+16,6,MÂNJITURII,OK,i m â n j t
+17,8,DESOFISTICĂRII,OK,i s d o t c ă r
+18,3,TĂIERI,OK,i ă e
+19,7,GENTILEȚILOR,OK,e g n t ț o r
+20,7,NENOROCITUL,OK,n o e r t u l
+21,4,ÎNAINTĂ,OK,n î a ă
+22,5,ISTMICUL,OK,i s t m c
+23,9,ASCUȚITUNGHICUL,OK,i a s ț t n g h l
+24,6,OBNUBILĂRILOR,OK,b i l r n u
+25,6,BUMBĂCELULUI,OK,u b l m e i
+26,8,POSTĂVĂRIILE,OK,i p o s t v l e
+27,8,CENTROZOMUL,OK,o c n t r z m u
+28,6,DEBAVURASE,OK,e a d b v r
+29,5,VRAMIȚE,OK,r a m ț e
+30,3,RETORI,OK,r e o
+31,7,EPISTOLARELOR,OK,e o r p s t a
+32,9,ÎNCHIABUREAȚI,OK,i a î n c u r e ț
+33,7,LAMINATOAREA,OK,a m i n t o r
+34,6,PLATINEZ,OK,p l a t i n
+35,6,ȚĂNDĂRELEI,OK,ă e ț n l i
+36,5,TEVATURI,OK,t e v u i
+37,5,FIDANȚATA,OK,a i n ț t
+38,7,EXONDĂRILE,OK,x o n d ă r i
+39,7,DECOMANDATĂ,OK,d e c o n t ă
+40,4,OMAGIALI,OK,a i o g
+41,6,STÂLPISEM,OK,s t â l i m
+42,4,ELFILOR,OK,f i o r
+43,7,DECONCERTANTELE,OK,e n t d o r l
+44,4,GAGICULUI,OK,g a c l
+45,5,APELARĂM,OK,p e r ă m
+46,9,SPERMATOFITELOR,OK,e r t s p m a i l
+47,7,NECREDINCIOȘILOR,OK,i n e c d ș l
+48,7,CINSTEȚUL,OK,c i n e ț u l
+49,8,NEOFORMAȚIUNII,OK,i n e f m a ț u
+50,7,PEGMATITUL,OK,t e m a i u l
+51,5,PLUTUIEȘTE,OK,u p l i ș
+52,4,CINTEZII,OK,c n t z
+53,6,FOLFĂIESC,OK,f l ă e s c
+54,7,OTORINOLARINGOLOGELOR,OK,o r n g t a e
+55,5,ESTETIZANTEI,OK,t i s z n
+56,7,BALAOACHEȘĂ,OK,a l o c h e ș
+57,5,NOTĂRIȚĂ,OK,n t r i ț
+58,4,DULEȚI,OK,u e ț i
+59,7,RICKETTSIOZEI,OK,i t r c k o z
+60,3,CIREȘE,OK,e i r
+61,5,ZGĂRDAT,OK,z g r a t
+62,7,PREȚIOASELOR,OK,r e p ț i a s
+63,6,DIMPREJUR,OK,i m p e j u
+64,4,BULBUCAT,OK,b u c a
+65,6,ARIERDUNĂ,OK,r a i e u ă
+66,5,FLACIDEI,OK,f l a d e
+67,7,CONVENȚIONALI,OK,n o i c v e a
+68,5,CUCONIȚĂ,OK,c u o n i
+69,7,NELINIȘTITORULUI,OK,i l t u e o r
+70,7,BIHINDISIRILE,OK,i h n d s l e
+71,7,ÎMPLINIREA,OK,i î m p r e a
+72,5,INSTIGÂND,OK,n t g â d
+73,3,RECENTE,OK,e n t
+74,3,EMBLEMĂ,OK,m b l
+75,7,SINGURAȘUL,OK,u s i n r a l
+76,8,SUBSECRETARULUI,OK,u s r b c a l i
+77,10,DEVITALIZASERĂM,OK,i a d v t l z s r m
+78,8,SUBAPRECIEZ,OK,e s u b a p c z
+79,5,CLASATULUI,OK,a u s t i
+80,7,FARAONICUL,OK,a f o i c u l
+81,5,ÎNROLĂRILOR,OK,l î n ă i
+82,5,PRIMEZIU,OK,i p m e z
+83,5,CRUCIATULUI,OK,u i r t l
+84,8,PRODIGATELE,OK,e r d i g a t l
+85,2,VINA,OK,v i
+86,5,CIFRARĂM,OK,c i a ă m
+87,8,ÎNFRUNTASEM,OK,n î f r u t a e
+88,4,VIOȘELI,OK,i v e l
+89,8,AMUȘISERĂȚI,OK,i a m u ș s e r
+90,7,TELEGRAFIARĂ,OK,a t l g f i ă
+91,8,CITRONADELE,OK,e c i t r o n l
+92,10,BASCHETBALIȘTILOR,OK,b a t l i c h e ș o
+93,6,SEPTICUL,OK,s e t i c u
+94,2,VENENO,OK,e v
+95,6,GUDRONĂM,OK,g u d r n m
+96,7,CORDENCIULUI,OK,i u o d e n l
+97,6,STROPȘIRE,OK,r o p ș i e
+98,6,FOILETONIST,OK,o t l e n s
+100,3,ACHITAT,OK,c h i
